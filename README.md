@@ -1,7 +1,7 @@
 # javascript-map-printNames
 
 ## Aufgabenstellung - Teil 1
-Schreibe ein Array mit den Namen: John, Chuck, Henry, Oscar, Ryan, Bob, Pete.
+Schreibe ein Array mit den Namen: John, Chuck, Henry, Oscar, Ryan, Ryan, Pete.
 
 ## Aufgabenstellung - Teil 2
 Schreibe eine Funktion mit dem Parameter firstName.
